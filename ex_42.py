@@ -2,7 +2,6 @@ n = input()
 res = 0
 if n == 'C4':
     res = 261,63
-    print(type(res))
 elif n == 'D4':
     res = 293,66
 elif n == 'E4':
