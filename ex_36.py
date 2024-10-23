@@ -1,6 +1,6 @@
 a = int(input())
-if a < 0:
-    print('ошибка')
+if a <= 0:
+    res = 'ошибка'
 elif a == 1:
     res = 10.5
 elif a == 2:
