@@ -11,3 +11,4 @@ else:
 print(f'{month} = {res}')
 
 
+# я бы добавил .capitalize() в конце input()
