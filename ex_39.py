@@ -10,5 +10,3 @@ else:
     res = '28 или 29'
 print(f'{month} = {res}')
 
-
-# я бы добавил .capitalize() в конце input()
