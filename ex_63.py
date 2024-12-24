@@ -11,3 +11,6 @@ print(list)
 print(sum(list))
 print(len(list))
 print(f'Среднее значение: {sum(list) / len(list)}')
+
+# Если первым числом будет 0 - то будет ошибка ZeroDivisionError: division by zero
+# Первое число не учитывается при подсчете среднего
